@@ -4,7 +4,7 @@ Sou um desenvolvedor de software autodidata apaixonado por tecnologia e inovaç�
 
 ## 🚀 Sobre mim
 
-- **Linguagens e habilidades:** Node.js, React, JavaScript, SQL básico e um pouco de Lua (já me aventurei criando joguinhos 😄).
+- **Linguagens e habilidades:** Node.js, TypeScript, React, JavaScript, SQL básico e um pouco de Lua (já me aventurei criando joguinhos 😄).
 - **Experiência com APIs:** Desenvolvimento de APIs usando Node.js com Express e Prisma ORM. Também tenho experiência com a API da OpenAI.
 - **Interesses:** Sou fascinado por Inteligência Artificial e estou sempre buscando me atualizar nessa área.
 - **Objetivos:** Quero encontrar uma oportunidade que me permita aprimorar minhas habilidades em frontend. Tenho uma boa noção de APIs e estou ansioso para desenvolver mais no front.
