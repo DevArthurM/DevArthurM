@@ -1,35 +1,42 @@
-# Olá! 👋
+## About Me
 
-Sou um desenvolvedor de software autodidata apaixonado por tecnologia e inovação. Adoro mergulhar em novos desafios e estou sempre em busca de aprender algo novo.
+- **GTM Engineer** at **Lumx** (B2B stablecoin payment infrastructure, LatAm)
+- I build end-to-end automation between CRM, data, and AI to eliminate manual work for the revenue team
 
-## 🚀 Sobre mim
+## Automation
 
-- **Linguagens e habilidades:** Node.js, TypeScript, React, JavaScript, SQL básico e um pouco de Lua (já me aventurei criando joguinhos 😄).
-- **Experiência com APIs:** Desenvolvimento de APIs usando Node.js com Express e Prisma ORM. Também tenho experiência com a API da OpenAI.
-- **Interesses:** Sou fascinado por Inteligência Artificial e estou sempre buscando me atualizar nessa área.
-- **Objetivos:** Quero encontrar uma oportunidade que me permita aprimorar minhas habilidades em frontend. Tenho uma boa noção de APIs e estou ansioso para desenvolver mais no front.
+- End-to-end workflows in **n8n** (self-hosted): capture, enrichment, cross-system sync
+- **Attio** as the central CRM via **API v2** (automations + webhooks)
+- **Clay** for enrichment
+- **Slack** integration for messaging and alerts
 
-## 🌱 Projeto Destaque
+## CRM & Data
 
-### Ferramenta de Leitura de Plantas
+- Data flow modeling for outbound, segmentation, and funnel visibility
+- Development experience building **Attio apps** via the **App SDK**
 
-Desenvolvi um projeto completo que envolve:
+## AI
 
-- **Criação da API**
-- **Banco de dados**
-- **Desenvolvimento do site**
-- **Hospedagem na Vercel**
+- **OpenAI API** and **Claude API / Agent Skills** for lead classification and enrichment
+- Specific interest in the AI infrastructure layer: cost per token, latency, model routing, billing
 
-O projeto consiste em ferramentas de leitura de plantas utilizando a API do ChatGPT. Foi uma experiência incrível onde pude aplicar e aprimorar minhas habilidades em todo o processo de desenvolvimento.
+## Back-end
 
-## 🧠 Filosofia de Trabalho
+- **Node.js**, **NestJS**, **Prisma ORM**, **PostgreSQL**
+- **Docker / Docker Compose** for packaging
+- Deployment on **Vercel** and **AWS Lambda**
 
-*"Me dê um prazo e um problema, se o prazo fizer sentido para o problema, vou te entregar o melhor de mim sempre."*
+## Front-end
 
-## 📜 Citação Favorita
+- **React**, **Next.js**, **JavaScript**, **Tailwind CSS**, **shadcn/ui**
 
-*"A diferença entre o inteligente e o sábio é que o inteligente sabe a melhor forma de sair de um buraco, o sábio não passa nem perto de um buraco."*
+## Stack
 
-## 📫 Vamos Conversar!
-
-Se você está interessado em colaborar ou tem alguma oportunidade que possa me ajudar a crescer no frontend, não hesite em entrar em contato!
+| Category    | Technologies                                 |
+|-------------|-----------------------------------------------|
+| Automation  | n8n, Attio (API v2, App SDK), Clay, Slack      |
+| AI          | OpenAI API, Claude API / Agent Skills, Claude Code |
+| Back-end    | Node.js, NestJS, Prisma ORM, PostgreSQL        |
+| Infra       | Docker, Vercel, AWS Lambda, Ubuntu/Linux       |
+| Front-end   | React, Next.js, Tailwind CSS, shadcn/ui        |
+| Languages   | TypeScript, JavaScript, SQL                    |
