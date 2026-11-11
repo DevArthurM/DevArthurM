@@ -1,6 +1,6 @@
 ## About Me
 
-- **GTM Engineer** at **Lumx** (B2B stablecoin payment infrastructure, LatAm)
+- **GTM Engineer**
 - I build end-to-end automation between CRM, data, and AI to eliminate manual work for the revenue team
 
 ## Automation
